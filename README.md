@@ -4,7 +4,7 @@
 
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=&random=false&width=250&height=60&lines=Hi+%F0%9F%91%8B;I'm+ABHINAV+PULYANI" alt="Typing SVG" /></a></h1>
 
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=&random=false&width=700&height=60&lines=Tech+Enthusiast+|+Passionate+about+Coding+and+Problem+Solving" alt="Typing SVG" /></a></a></h3>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=&random=false&width=750&height=60&lines=Tech+Enthusiast+|+Passionate+about+Coding+and+Problem+Solving" alt="Typing SVG" /></a></a></h3>
 
 - 🔭 I’m currently working on **TIME MANAGEMENT SYSTEM**
 
