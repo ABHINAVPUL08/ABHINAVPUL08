@@ -9,6 +9,8 @@
 - 🔭 I’m currently working on **TIME MANAGEMENT SYSTEM**
 
 - 📫 How to reach me **[email](mailto:apulyani55@gmail.com)**
+- 📫 How to reach me **[
+LinkedIn](https://www.linkedin.com/in/abhinav-pulyani/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
