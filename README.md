@@ -6,7 +6,7 @@
 
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=&random=false&width=750&height=60&lines=Tech+Enthusiast+|+Passionate+about+Coding+and+Problem+Solving" alt="Typing SVG" /></a></a></h3>
 
-- 🔭 I’m currently working on **TIME MANAGEMENT SYSTEM**
+- 🔭 Actively exploring new opportunities in tech and development.
 
 - 📫 How to reach me **[email](mailto:apulyani55@gmail.com)**
 - 📫 How to reach me **[
